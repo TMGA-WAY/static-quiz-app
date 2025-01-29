@@ -2,7 +2,6 @@
 .dart_tool/
 .packages
 .flutter
-.text
 .flutter-plugins
 .flutter-plugins-dependencies
 .metadata
